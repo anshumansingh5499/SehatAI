@@ -18,9 +18,6 @@ structured, safe symptom triage using AI.
 | Frontend | Streamlit |
 | Safety | Emergency guardrails, Disclaimers |
 
-## Architecture
-[add a simple diagram]
-
 ## How to Run
 pip install -r requirements.txt
 uvicorn app.main:app --reload
